@@ -1,0 +1,12 @@
+main: fr.zuxaw.AriaziixLD
+
+version: 1.0
+
+name: AriaziixLD
+
+commands:
+  ld:
+    usage: /ld <command>
+    description: commande général du plugin
+
+
